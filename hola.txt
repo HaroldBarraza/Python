@@ -1,0 +1,2 @@
+el ancho del denumatico es 10.0 la relacion del neumatico es 20.0 el diametro del neumatico es 30.0 el volimen es 60.0 2023-04-29
+el ancho del denumatico es 5.0 la relacion del neumatico es 2.0 el diametro del neumatico es 9.0 el volimen es 16.0 2023-04-29
